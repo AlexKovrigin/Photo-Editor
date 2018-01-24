@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>brush.ico</file>
+        <file>ellipse.ico</file>
+        <file>eraser.ico</file>
+        <file>line.ico</file>
+        <file>paint.ico</file>
+        <file>pencil.ico</file>
+        <file>rect.ico</file>
+    </qresource>
+</RCC>

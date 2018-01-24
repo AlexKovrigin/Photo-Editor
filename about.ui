@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>About</class>
+ <widget class="QDialog" name="About">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>351</width>
+     <height>241</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Программа написана юным подающим надежды программистом&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Шуриком Коврижкиным,&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;а также&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;опытным программистом&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Сергеем Сергеевичем Кондрашовым&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Все права не защищены&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Создатель: ЗАО &amp;quot;В Гостях у Шурика&amp;quot;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Издатель: ООО &amp;quot;Спонсируйте нас!&amp;quot;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Правообладатель: ОАО &amp;quot;Права у нас - лева тоже&amp;quot;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;v. 1.2&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;Visit us on: kovrigin.uniax.com&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="closeBtn">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>260</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Close</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
